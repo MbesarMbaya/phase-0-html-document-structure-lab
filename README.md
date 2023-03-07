@@ -20,9 +20,9 @@ comments within our HTML code.
 
 ## Getting Started
 
-If you haven't already, fork and clone this lesson into your local environment.
-Navigate into its directory in the terminal, then run `code .` to open the files
-in Visual Studio Code.
+If you haven't already, **fork and clone** this lesson into your local
+environment. Navigate into its directory in the terminal, then run `code .` to
+open the files in Visual Studio Code.
 
 ## Recognize Basic HTML Document Structure
 
@@ -41,7 +41,7 @@ Let's start by adding the bare essentials of an HTML document to the provided
 > it's a good habit to get into. Go ahead and indent the `head` and `body` tags
 > inside the `html` tags, if you haven't already.
 
-If written correctly, running `learn test` now will pass three of the seven
+If written correctly, running `npm test` now will pass three of the seven
 tests:
 
 - `has a DOCTYPE tag`
@@ -177,6 +177,9 @@ to keep the title brief, or it will not be fully visible.
 
 Adding the title should get the last two tests passing! Run the tests one last
 time to verify.
+
+As always, don't forget to push up your code and submit it using CodeGrade once
+everything is passing.
 
 ## Conclusion
 
